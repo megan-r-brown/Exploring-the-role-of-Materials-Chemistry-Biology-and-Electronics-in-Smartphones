@@ -1,4 +1,3 @@
-from IPython.display import display, Image
-import ipywidgets as widgets
-from IPython.display import clear_output
-import sys
+IPython
+ipywidgets
+sys
