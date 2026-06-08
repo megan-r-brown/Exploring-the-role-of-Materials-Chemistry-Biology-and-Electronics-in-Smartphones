@@ -2,3 +2,4 @@ pyscf
 rdkit
 geometric
 py3Dmol
+matplotlib
